@@ -1,0 +1,127 @@
+{
+  "workspaces": {
+    "note": {
+      "main": {
+        "id": "39752f300e185441",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaa131feb3c0a104",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/list/How-to-Take-Smart-Notes.pdf.pdf"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c16baa8a29fe77bb",
+        "type": "split",
+        "children": [
+          {
+            "id": "3aabbf2e8c21cccf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2856a611607ea4ae",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9b360779a1f4c1d1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5
+      },
+      "right": {
+        "id": "f29016a5bb02222b",
+        "type": "split",
+        "children": [
+          {
+            "id": "a10bcaaa0b8fca9f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cfd83d2ed2d07bc2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "books/list/How-to-Take-Smart-Notes.pdf.pdf",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "94667641f2d6209d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "78706a306c0c4016",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "723365305b6249e0",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "books/list/How-to-Take-Smart-Notes.pdf.pdf"
+                  }
+                }
+              },
+              {
+                "id": "eb201c51797a5eb2",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 371.5
+      },
+      "active": "aaa131feb3c0a104"
+    }
+  },
+  "active": "note"
+}

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "9f121d2688732d76",
+    "type": "split",
+    "children": [
+      {
+        "id": "45dd17a37446800a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "methods/lock.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e94d7f4244380b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db5c294ed718f95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f450b001e6b9640",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "963696327cb15a4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "black cou",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262
+  },
+  "right": {
+    "id": "b1fcdcab5dd1f3db",
+    "type": "split",
+    "children": [
+      {
+        "id": "28c105ea0c8e56d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58283595fa4dba5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "methods/lock.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "45dd17a37446800a",
+  "lastOpenFiles": [
+    "methods/lock.md",
+    "books/daily_stoic_ru.pdf",
+    "books/daily_stoic.pdf",
+    "Restrictions.md",
+    "Phylosophy.md",
+    "Project.md",
+    "Stoicism.md",
+    "Studying.md",
+    "Ethics.md",
+    "In Case.md"
+  ]
+}
